@@ -1,0 +1,5 @@
+{"input":{"change_text":"Deploy payments service patch to production tonight, rollback plan documented and tested."},"expected_risk_impact":"High"}
+{"input":{"change_text":"Apply schema migration in production without rollback steps."},"expected_risk_impact":"Critical"}
+{"input":{"change_text":"Update internal dashboard CSS in staging only."},"expected_risk_impact":"Low"}
+{"input":{"change_text":"Rotate identity service keys in production, rollback unknown."},"expected_risk_impact":"Critical"}
+{"input":{"change_text":"Restart notification worker in production with rollback runbook available."},"expected_risk_impact":"Moderate"}

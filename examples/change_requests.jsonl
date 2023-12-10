@@ -1,0 +1,10 @@
+{"change_text":"Deploy payments API hotfix to production at 02:00Z. Rollback plan is documented."}
+{"change_text":"Apply customer database schema change in production without rollback details."}
+{"change_text":"UI color update for internal dashboard in staging environment."}
+{"change_text":"Rotate auth certificates in production. Contact: oncall@example.com"}
+{"change_text":"Restart notification worker in production. Rollback available."}
+{"change_text":"Enable new checkout feature flag in production and validate with canary."}
+{"change_text":"Tune cache TTL values in staging for search service."}
+{"change_text":"Patch identity service dependencies in production, rollback unknown."}
+{"change_text":"Move analytics cron schedule by 10 minutes in production, low impact expected."}
+{"change_text":"Database reindex on core orders table in production during business hours."}

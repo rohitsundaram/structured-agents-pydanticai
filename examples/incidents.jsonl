@@ -1,0 +1,2 @@
+{"incident_text":"Checkout latency increased to 8s with timeout spikes in prod","log_snippet":"timeout on payment downstream after deploy"}
+{"incident_text":"Background email worker crashed repeatedly","log_snippet":"segmentation fault in template parser"}
